@@ -14,7 +14,7 @@ fig-cap-location: margin
 author: 
   name: "SC"
   affiliation: "None"
-  email: stv.chua@gmail.com
+  email: "None"
 keywords: "Quarto, Paradox, Data Analysis"
 date: today
 description: "This document is a short analysis of the Penguin Dataset. It explores the relationship between bill length and bill depth and show how important it is to consider group effects."
